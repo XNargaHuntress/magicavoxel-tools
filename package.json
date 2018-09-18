@@ -1,0 +1,16 @@
+{
+  "name": "magicavoxel",
+  "version": "1.0.0",
+  "description": "File reader for MagicaVoxel .vox files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voxel",
+    "magicavoxel",
+    "vox"
+  ],
+  "author": "Laerin Anderson",
+  "license": "MIT"
+}
