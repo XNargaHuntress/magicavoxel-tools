@@ -1,5 +1,5 @@
 {
-  "name": "magicavoxel-tools",
+  "name": "mvox-tools",
   "version": "1.0.0",
   "description": "File reader for MagicaVoxel .vox files",
   "main": "main.js",
